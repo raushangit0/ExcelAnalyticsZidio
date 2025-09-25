@@ -16,6 +16,7 @@ function App() {
   const [authError, setAuthError] = useState('');
 
   // Mock history data
+  //check
   const mockHistory: AnalysisHistory[] = [
     {
       id: '1',
